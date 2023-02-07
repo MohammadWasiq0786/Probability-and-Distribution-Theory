@@ -1,5 +1,7 @@
 # [**Probability and Distribution Theory (DSM-1004)**](https://github.com/MohammadWasiq0786/Probability-and-Distribution-Theory)
 
+![image](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/amu_logo_resized.png)
+
 I'm very very thankful to 
 
 [**Professor Dr. Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)
